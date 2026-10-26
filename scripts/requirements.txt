@@ -1,0 +1,4 @@
+requests==2.32.3
+beautifulsoup4==4.12.3
+# portrait-only (NOT needed by the daily workflow); install locally when you change your photo:
+# pillow numpy opencv-python "rembg[cpu]"

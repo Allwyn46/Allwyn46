@@ -1,0 +1,13 @@
+{
+  "username": "Allwyn46",
+  "prompt_name": "allwyn",
+  "info_card": {
+    "title": "allwyn@github",
+    "rows": [
+      ["Now", "Software developer building web apps"],
+      ["Stack", "React · TypeScript · Tailwind · Node · Next.js"],
+      ["Setup", "Arch Linux + Hyprland · Neovim (LazyVim)"],
+      ["Highlights", "MERN & Next.js projects · custom Quickshell panel for Hyprland"]
+    ]
+  }
+}
